@@ -1,5 +1,5 @@
 ### Hi there 👋
-### We are still on the way 👋
+### We are still on the way 😄
 <!--
 **orrsrosx-nonloso/orrsrosx-nonloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
